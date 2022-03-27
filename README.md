@@ -1,10 +1,13 @@
-#Hotel Reservation
+# Hotel Reservation
 
 Hotel Reservation helps the user to reserve the hotel depending upon rates and various accomodation.
 
-#Screenshot
+## Screenshots
 
-## Available Scripts
+![App Screenshot](https://i.postimg.cc/6pC7Pb8k/Screenshot-465.png)
+
+![App Screenshot](https://i.postimg.cc/3w436dfd/Screenshot-463.png)
+
 
 In the project directory, you can run:
 
@@ -70,3 +73,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
