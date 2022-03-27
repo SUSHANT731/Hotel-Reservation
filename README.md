@@ -1,8 +1,8 @@
-##Hotel Reservation
+#Hotel Reservation
 
 Hotel Reservation helps the user to reserve the hotel depending upon rates and various accomodation.
 
-##Screenshot
+#Screenshot
 
 ## Available Scripts
 
